@@ -1,0 +1,55 @@
+.footer h5 {
+  color: white !important;
+  font-weight: 700;
+}
+
+.btns {
+  padding: 10px 15px;
+  border: none;
+  margin-left: 10px;
+  border-radius: 5px;
+  background-color: orange;
+  color: white;
+}
+
+.footer {
+  margin-top: 30px;
+}
+
+.btnw {
+  padding: 10px 15px;
+  border: none;
+  margin-left: 10px;
+  border-radius: 5px;
+  background-color: white;
+  color: white;
+}
+
+.x {
+  padding: 5px 8px;
+  color: white;
+  background-color: red;
+  border: none;
+  border-radius: 5px;
+  font-size: 13px;
+}
+
+.y {
+  padding: 5px 8px;
+  color: white;
+  background-color: #74c0fc;
+  border: none;
+  border-radius: 5px;
+  font-size: 13px;
+  text-decoration: none;
+}
+
+.m {
+  padding: 5px 8px;
+  color: white;
+  background-color: #2f9e44;
+  border: none;
+  border-radius: 5px;
+  font-size: 13px;
+  text-decoration: none;
+}
